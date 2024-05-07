@@ -1,0 +1,5 @@
+.idea/
+.venv/
+DODATKOWE.txt
+__pycache__/
+temp.png
